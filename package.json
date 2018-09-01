@@ -1,0 +1,27 @@
+{
+  "name": "myweb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "availity-reactstrap-validation": "^2.0.2",
+    "bootstrap": "^4.1.1",
+    "es6-promise": "^4.2.4",
+    "firebase": "^5.0.4",
+    "react": "^16.4.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.0",
+    "react-firebase-file-uploader": "^2.4.2",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^6.1.0",
+    "webpack": "^3.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.0.8"
+  }
+}
